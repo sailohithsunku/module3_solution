@@ -20,6 +20,11 @@
 
 /* Body */
 
+.navbar-default .navbar-collapse{
+  text-align: center;
+  
+}
+
 .menu-bar{
   position: absolute;
   right: 0;
@@ -47,4 +52,12 @@
 #Chicken-tile span{
  font-size: 1.3em;
  font-weight: bold;
+}
+
+#collapsable-nav{
+  color: black;
+  float: right;
+  top:0;
+   margin-top: 0;
+  margin-bottom: 0;
 }
